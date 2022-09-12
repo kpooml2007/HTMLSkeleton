@@ -28,8 +28,17 @@ Start of html code
 Start of the head in the file, a head part is what you don't see
 ```
 <meta charset="UTF-8">
-<title>Page Title</title>
+```
+Sets the character set to UTF-8
+```
+<title>Hello, world!</title>
+```
+Sets the page title to "Hello, world!"
+```
 <meta name="viewport" content="width=device-width,initial-scale=1">
+```
+Makes the width and heigh of the page as the device website size
+```
 <link rel="stylesheet" href="./style.css">
 <script src="./script.js"></script>
 </head>
