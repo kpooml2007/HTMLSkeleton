@@ -10,7 +10,7 @@ git clone https://github.com/kpooml2007/HTMLSkeleton
 and the files should clone in your folder, if you wish you may delete the README.md file
 
 
-## Explentation
+## Explanation 
 
 ```
 <!DOCTYPE html>
@@ -24,6 +24,9 @@ Start of html code
 
 ```
 <head>
+```
+Start of the head in the file, a head part is what you don't see
+```
 <meta charset="UTF-8">
 <title>Page Title</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
